@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://jaijain230999.github.io/contactmanager",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "classnames": "^2.2.6",
     "gh-pages": "^2.2.0",
